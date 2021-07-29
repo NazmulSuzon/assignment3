@@ -1,0 +1,35 @@
+.heading-color{
+    background-color: #264653;
+    color: white;
+}
+.bg-btn{
+    color: white; 
+    background-color: #E76F51;
+    /* padding: 5; */
+    border: none;
+}
+.bg-btn:hover{
+    background-color: white;
+    border-color: #E76F51;
+    color: #E76F51;
+}
+.feature-bike:hover{
+    filter: grayscale(100);
+}
+.feature-bike-color {
+    color: #E76F51;
+}
+.fa-star-half-alt{
+    color: #E76F51;
+}
+/* .news-btn{
+    border-color: #E76F51;
+    color: #E76F51;
+} */
+.frequently-question img{
+    height: 70;
+}
+/* Happy Client */
+.happy-client{
+    color: #E76F51;
+}
